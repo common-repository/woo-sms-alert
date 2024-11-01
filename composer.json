@@ -1,0 +1,6 @@
+{
+    "require": {
+        "plivo/plivo-php": "4.3.1",
+	"twilio/sdk": "^5.41"
+    }
+}
